@@ -1,0 +1,42 @@
+{
+  "status": "complete",
+  "analyzedAt": "2026-01-08T22:48:23.388Z",
+  "config": {
+    "analysis": {
+      "description": "Fantasy elf druid with majestic antlers, glowing cyan eyes, long blonde hair, and crystalline dark teal armor. Strong magical/ethereal aesthetic with prominent teal glow effects throughout.",
+      "style": "alien",
+      "aesthetic": "organic"
+    },
+    "proportions": {
+      "headSize": 1.4,
+      "torsoWidth": 1.2,
+      "torsoHeight": 1.1,
+      "armLength": 1,
+      "armThickness": 0.9,
+      "legLength": 1,
+      "legThickness": 0.9
+    },
+    "colors": {
+      "head": "#c4a882",
+      "torso": "#1a3535",
+      "leftArm": "#c4a882",
+      "rightArm": "#c4a882",
+      "leftLeg": "#1a3535",
+      "rightLeg": "#1a3535",
+      "emission": "#00e5cc",
+      "background": "#0a1515"
+    },
+    "materials": {
+      "metalness": 0.5,
+      "roughness": 0.3,
+      "emissionIntensity": 1.5
+    },
+    "features": {
+      "hasGlowingParts": true,
+      "isSymmetrical": true,
+      "hasLargeHead": true,
+      "hasThinLimbs": false,
+      "hasWideBody": true
+    }
+  }
+}
