@@ -21,6 +21,6 @@
     "declarationMap": true,
     "sourceMap": true
   },
-  "include": ["src/core/**/*", "src/types/**/*", "src/plugins/**/*", "src/ui/**/*", "src/generators/**/*", "src/exporters/**/*", "src/materials/**/*", "src/rigging/**/*", "src/main.ts"],
+  "include": ["src/core/**/*", "src/types/**/*", "src/plugins/**/*", "src/ui/**/*", "src/generators/**/*", "src/exporters/**/*", "src/materials/**/*", "src/rigging/**/*", "src/integrations/**/*", "src/main.ts"],
   "exclude": ["node_modules", "dist", "src/app", "src/components", "src/lib", "src/store"]
 }
