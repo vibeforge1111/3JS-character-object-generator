@@ -5,6 +5,9 @@
 export { BlenderIntegrationPlugin } from './BlenderIntegration.js';
 export type { BlenderExportOptions } from './BlenderIntegration.js';
 
+export { UnityIntegrationPlugin } from './UnityIntegration.js';
+export type { UnityExportOptions } from './UnityIntegration.js';
+
 export {
   PresetManager,
   getPresetManager,
